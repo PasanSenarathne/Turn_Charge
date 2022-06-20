@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ev_location"
+        android:icon="@drawable/ic_baseline_place"
+        android:title="@string/action_map"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_baseline_map"
+        android:title="@string/action_map"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_baseline_directions_run_24"
+        android:title="@string/action_logout"
+        app:showAsAction="always" />
+
+</menu>

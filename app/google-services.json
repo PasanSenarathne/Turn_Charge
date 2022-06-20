@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402774995293",
+    "firebase_url": "https://turn-charge-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "turn-charge",
+    "storage_bucket": "turn-charge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402774995293:android:e64d6c1809d87f89cbb8b4",
+        "android_client_info": {
+          "package_name": "com.isprid.turnchargelk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402774995293-tfpu9skeuleuqtrrm4ohdkdsso15tmg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeW4rcRjOnEvuz6S0q2hJXrgeYxxS8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402774995293-tfpu9skeuleuqtrrm4ohdkdsso15tmg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

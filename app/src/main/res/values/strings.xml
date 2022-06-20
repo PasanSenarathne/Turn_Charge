@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Turn Charge</string>
+
+    <string name="new_user">Not a registered user yet? Sign Up here.</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">LOGIN</string>
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_user">Already have an Account? Login here.</string>
+    <string name="email">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_map">EV Map</string>
+    <string name="action_skip">SKIP</string>
+    <string name="not_available">N/A</string>
+    <string name="vehicle_speed">Vehicle Speed</string>
+    <string name="connection">Connection</string>
+    <string name="obd_paired_device_not_found">OBD paired device not found!</string>
+    <string name="engine_rpm">Engine RPM</string>
+    <string name="fuel_level">Fuel Level</string>
+    <string name="fuel_consumption_rate">Fuel Consumption Rate</string>
+    <string name="loading_title">Connecting</string>
+    <string name="loading_message">Wait while connecting…</string>
+    <string name="logout">Logout</string>
+    <string name="exit_warning">Are you sure you want to logout ?</string>
+</resources>
